@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3500px" height="1280px" viewBox="0 0 3500 1280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>phi dotty thin vs normal vs bold@1x</title>
+    <g id="phi-dotty-thin-vs-normal-vs-bold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F2F0ED" x="0" y="0" width="3500" height="1280"></rect>
+        <path d="M2860,120 L3380,380 L3380,900 L2860,1160 L2340,900 L2340,380 L2860,120 Z M3300,460 L2900,660 L2900,1060 L3300,860 L3300,460 Z M3060,660 L3060,820 L2980,860 L2980,700 L3060,660 Z M3220,580 L3220,740 L3140,780 L3140,620 L3220,580 Z" id="Dotty-bold" fill="#8080FF" fill-rule="nonzero"></path>
+        <path d="M1720,140 L2220,390 L2220,890 L1720,1140 L1220,890 L1220,390 L1720,140 Z M2180,430 L1740,650 L1740,1090 L2180,870 L2180,430 Z M1920,660 L1920,820 L1840,860 L1840,700 L1920,660 Z M2080,580 L2080,740 L2000,780 L2000,620 L2080,580 Z" id="Dotty-normal" fill="#8080FF" fill-rule="nonzero"></path>
+        <path d="M610,150 L1100,395 L1100,885 L610,1130 L120,885 L120,395 L610,150 Z M1080,415 L620,645 L620,1105 L1080,875 L1080,415 Z M810,660 L810,820 L730,860 L730,700 L810,660 Z M970,580 L970,740 L890,780 L890,620 L970,580 Z" id="Dotty-thin" fill="#8080FF" fill-rule="nonzero"></path>
+    </g>
+</svg>

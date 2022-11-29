@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2360px" height="1280px" viewBox="0 0 2360 1280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>phi dotty thinline black@1x</title>
+    <g id="phi-dotty-thinline-black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F2F0ED" x="0" y="0" width="2360" height="1280"></rect>
+        <path d="M1750,120 L2270,380 L2270,900 L1750,1160 L1230,900 L1230,380 L1750,120 Z M2190,460 L1790,660 L1790,1060 L2190,860 L2190,460 Z M1950,660 L1950,820 L1870,860 L1870,700 L1950,660 Z M2110,580 L2110,740 L2030,780 L2030,620 L2110,580 Z" id="Dotty" fill="#8080FF" fill-rule="nonzero"></path>
+        <path d="M610,140 L1110,390 L1110,890 L610,1140 L110,890 L110,390 L610,140 Z M1070,430 L630,650 L630,1090 L1070,870 L1070,430 Z M810,660 L810,820 L730,860 L730,700 L810,660 Z M970,580 L970,740 L890,780 L890,620 L970,580 Z" id="Dotty" fill="#8080FF" fill-rule="nonzero"></path>
+    </g>
+</svg>
