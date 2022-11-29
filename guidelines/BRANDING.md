@@ -97,5 +97,5 @@ There are three vector variants of the PHI logo and Dotty: *thin*, *normal* and 
 
 ## Links
 - [PhiLand](https://philand.xyz/)
-- [Notes for Pixel Art Creators](pixel-art-notes.md)
+- [Notes for Pixel Art Creators](DESIGN_NOTES.md)
 - [TiliX Reference](https://c6y.github.io/tilix-reference/)
