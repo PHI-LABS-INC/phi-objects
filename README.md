@@ -15,8 +15,8 @@ This is a collection of Phi's objects. You may use it under the [CC0 1.0 Univers
 
 
 # Usage Guidelines
-* [Brand Notes](guidelines/BRANDING.md)
-* [Notes for Pixel Art Creators](guidelines/DESIGN_NOTES.md)
+* [Brand Notes](guidelines/brand-notes.md)
+* [Notes for Pixel Art Creators](guidelines/pixel-art-notes.md)
 
 
 
