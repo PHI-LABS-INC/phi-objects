@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="1280px" viewBox="0 0 1280 1280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>phi logo fatline 80ff80-white@1x</title>
+    <g id="phi-logo-fatline-80ff80-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(192.000000, 48.000000)" fill-rule="nonzero">
+            <polygon id="outline" fill="#80FF80" points="736 -4.09213562e-12 896 80 896 240 768 304 896 368 896 672 320 960 320 1104 160 1184 -2.47281123e-13 1104 -2.47281123e-13 656 288 512 288 368 448 288 592 360 704 304 576 240 576 80"></polygon>
+            <polygon id="h" fill="#FFFFFF" points="464 856 464 456 576 400 576 544 720 472 720 728 608 784 608 656 576 672 576 800"></polygon>
+            <polygon id="p" fill="#FFFFFF" points="432 616 176 744 176 1144 288 1088 288 816 320 800 319.813529 928.093236 432 872"></polygon>
+            <polygon id="i" fill="#FFFFFF" points="864 400 752 456 752 712 864 656"></polygon>
+            <polygon id="i-tittle" fill="#FFFFFF" points="864 112 752 168 752 280 864 224"></polygon>
+        </g>
+    </g>
+</svg>

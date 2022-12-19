@@ -90,9 +90,9 @@ There are three vector variants of the PHI logo and Dotty: *thin*, *normal* and 
 
 
 ## Downloads
-- [PHI logos, vector (EPS, SVG, PNG)](../assets/brand/logo/vector/)
-- [PHI logos, pixels (PNG)](../assets/brand/logo/pixel)
-- [Dotty, vector (EPS, SVG, PNG)](../assets/brand/dotty/vector)
+- [PHI logos, vector (EPS, SVG, PNG)](logo/vector/)
+- [PHI logos, pixels (PNG)](logo/pixel/)
+- [Dotty, vector (EPS, SVG, PNG)](dotty/vector/)
 
 ## Links
 - [PhiLand](https://philand.xyz/)

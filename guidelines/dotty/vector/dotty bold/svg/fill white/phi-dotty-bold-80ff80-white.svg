@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="1280px" viewBox="0 0 1280 1280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>phi dotty fatline 80ff80-white@1x</title>
+    <g id="phi-dotty-fatline-80ff80-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="outline" fill="#80FF80" fill-rule="nonzero" points="640 120 1160 380 1160 900 640 1160 120 900 120 380"></polygon>
+        <polygon id="right" fill="#FFFFFF" fill-rule="nonzero" points="1080 460 680 660 680 1060 1080 860"></polygon>
+        <polygon id="eye-left" fill="#80FF80" fill-rule="nonzero" points="760 700 840 660 840 820 760 860"></polygon>
+        <polygon id="eye-right" fill="#80FF80" fill-rule="nonzero" points="920 620 1000 580 1000 740 920 780"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="1280px" viewBox="0 0 1280 1280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>phi dotty fatline lines black@1x</title>
+    <g id="phi-dotty-fatline-lines-black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M640,120 L1160,380 L1160,900 L640,1160 L120,900 L120,380 L640,120 Z M1080,460 L680,660 L680,1060 L1080,860 L1080,460 Z M200,460 L200,860 L600,1060 L600,660 L200,460 Z M840,660 L840,820 L760,860 L760,700 L840,660 Z M1000,580 L1000,740 L920,780 L920,620 L1000,580 Z M640,200 L240,400 L640,600 L1040,400 L640,200 Z" id="Dotty" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

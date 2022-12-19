@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="1280px" viewBox="0 0 1280 1280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>phi logo thinline lines black-white@1x</title>
+    <g id="phi-logo-thinline-lines-black-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(200.000000, 56.000000)" fill-rule="nonzero">
+            <polygon id="logo-path" fill="#000000" points="728 -1.2203192e-13 880 76 880 228 744 296 880 364 880 660 304 948 304 1092 152 1168 -2.77833312e-13 1092 -2.77833312e-13 652 288 508 288 364 440 288 584 360 712 296 576 228 576 76"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="432 596 160 732 160 1148 288 1084 288 804 304 796 303.813529 932.093232 432 868"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="16 668 16 1084 144 1148 144 732"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="576 380 448 444 448 860 576 796 576 660 592 652 592 788 720 724 720 452 576 524"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="296 520 24 656 152 720 424 584"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="864 380 736 444 736 716 864 652"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="304 380 304 508 432 572 432 444"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="592 380 592 500 712 440"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="440 304 312 368 440 432 568 368"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="728 304 600 368 728 432 856 368"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="864 92 736 156 736 284 864 220"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="592 92 592 220 720 284 720 156"></polygon>
+            <polygon id="logo-path" fill="#FFFFFF" points="728 16 600 80 728 144 856 80"></polygon>
+        </g>
+    </g>
+</svg>

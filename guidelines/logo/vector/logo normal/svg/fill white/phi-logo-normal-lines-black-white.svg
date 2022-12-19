@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="1280px" viewBox="0 0 1280 1280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>phi logo fatline lines black-white@1x</title>
+    <g id="phi-logo-fatline-lines-black-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(192.000000, 48.000000)" fill-rule="nonzero">
+            <polygon id="outline" fill="#000000" points="736 -4.09213562e-12 896 80 896 240 768 304 896 368 896 672 320 960 320 1104 160 1184 -2.47281123e-13 1104 -2.47281123e-13 656 288 512 288 368 448 288 592 360 704 304 576 240 576 80"></polygon>
+            <polygon id="h" fill="#FFFFFF" points="464 856 464 456 576 400 576 544 720 472 720 728 608 784 608 656 576 672 576 800"></polygon>
+            <polygon id="p" fill="#FFFFFF" points="432 616 176 744 176 1144 288 1088 288 816 320 800 319.813529 928.093236 432 872"></polygon>
+            <polygon id="i" fill="#FFFFFF" points="864 400 752 456 752 712 864 656"></polygon>
+            <polygon id="i-tittle" fill="#FFFFFF" points="864 112 752 168 752 280 864 224"></polygon>
+            <polygon id="p-left" fill="#FFFFFF" transform="translate(88.000000, 916.000000) scale(-1, 1) translate(-88.000000, -916.000000) " points="144 688 144 1088 32 1144 32 744"></polygon>
+            <polygon id="p-top" fill="#FFFFFF" transform="translate(232.000000, 628.000000) scale(-1, 1) translate(-232.000000, -628.000000) " points="160 536 416 664 304 720 48 592"></polygon>
+            <polygon id="h-left" fill="#FFFFFF" transform="translate(376.000000, 484.000000) scale(-1, 1) translate(-376.000000, -484.000000) " points="432 400 432 512 320 568 320 456"></polygon>
+            <polygon id="h-top-front" fill="#FFFFFF" transform="translate(448.000000, 376.000000) scale(-1, 1) translate(-448.000000, -376.000000) " points="448 320 560 376 448 432 336 376"></polygon>
+            <polygon id="h-top-back" fill="#FFFFFF" transform="translate(656.000000, 448.000000) scale(-1, 1) translate(-656.000000, -448.000000) " points="704 400 704 496 608 448"></polygon>
+            <polygon id="i-top" fill="#FFFFFF" transform="translate(736.000000, 376.000000) scale(-1, 1) translate(-736.000000, -376.000000) " points="736 320 848 376 736 432 624 376"></polygon>
+            <polygon id="i-tittle-left" fill="#FFFFFF" transform="translate(664.000000, 196.000000) scale(-1, 1) translate(-664.000000, -196.000000) " points="720 112 720 224 608 280 608 168"></polygon>
+            <polygon id="i-tittle-top" fill="#FFFFFF" transform="translate(736.000000, 88.000000) scale(-1, 1) translate(-736.000000, -88.000000) " points="736 32 848 88 736 144 624 88"></polygon>
+        </g>
+    </g>
+</svg>
