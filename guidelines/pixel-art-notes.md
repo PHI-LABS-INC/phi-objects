@@ -3,6 +3,11 @@
 ## Check TiliX
 Go check the [TiliX Reference on GitHub](https://c6y.github.io/tilix-reference/). Understand the grid system PHI is based on, and avoid some common pitfalls.
 
+## Tools
+We use Adobe Photoshop. If it's not available to you, try [Asperite](https://www.aseprite.org/), which seems to be a  good pixel editor for macOS, Windows and Ubuntu.
+
+Whichever app you prefer, for best control, try using the pen tool and be sure to organize your artwork into layers.
+
 ## Templates
 * The latest [PHI templates](templates)
 * [TiliX grid](https://github.com/c6y/tilix-reference/tree/master/media/assets)
