@@ -39,14 +39,14 @@ This is a collection of Phi's objects. You may use it under the [CC0 1.0 Univers
 
 ## Team Members
 * Shugo (Co-founder / Biz Lead) [Twitter](https://twitter.com/0xshugo), [GitHub](https://github.com/shugotsuji)
-* Consome (Co-founder / Product Lead) [Twitter](https://twitter.com/ZkEther), [GitHub](https://github.com/consome)
+* Consome (Co-founder / Product Lead) (retired) [Twitter](https://twitter.com/ZkEther), [GitHub](https://github.com/consome)
 * ZaK 3939 (Co-founder / Dev Lead) [Twitter](https://twitter.com/ZacK_3939), [GitHub](https://github.com/ZaK3939)
 * oji3 (Frontend Dev) [Twitter](https://twitter.com/open3x), [GitHub](https://github.com/open3x)
-* J (Backend Dev) [Twitter](https://twitter.com/artoriatech), [Github](https://github.com/wjw12)
+* J (Backend Dev) (retired) [Twitter](https://twitter.com/artoriatech), [Github](https://github.com/wjw12)
 * Oz (UI/UX Design) [Twitter](https://twitter.com/0xOzh), [GitHub](https://github.com/madebyoz)
-* Lucy Qiu (Dev) [Twitter](https://twitter.com/KSeisai), [GitHub](https://github.com/moribetamidori)
+* Lucy Qiu (Dev) (retired) [Twitter](https://twitter.com/KSeisai), [GitHub](https://github.com/moribetamidori)
 * CincauHangus (Data Lead) [Twitter](https://twitter.com/CincauHangus), [GitHub](https://github.com/cincauhangus)
-* Geeny (Growth Lead) [Twitter](https://twitter.com/Geeny616)
+* Geeny (Growth Lead) (retired) [Twitter](https://twitter.com/Geeny616)
 * eBoy (Pixel Lead) [Twitter](https://twitter.com/eBoyArts), [GitHub](https://github.com/eBoyArts)
 * ta2nb (Pixel Art) [Twitter](https://twitter.com/ta2nb_mkiii)
 * Fuzuki Ishida (Pixel Art) [Twitter](https://twitter.com/fuzuzu)
